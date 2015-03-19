@@ -1,0 +1,1 @@
+This project contains code samples that illustrate how to render 2D geometric objects such as rectangles, circles, and arcs in conjunction with curves such as Archimedean spirals, Cissoids, Cochleoids, Conchoids, Lissajous curves and Lituus curves.
